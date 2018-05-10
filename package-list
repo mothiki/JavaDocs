@@ -1,0 +1,7 @@
+com.betterit.kaligia
+com.betterit.kaligia.config
+com.betterit.kaligia.controller
+com.betterit.kaligia.dao.model.kaligia
+com.betterit.kaligia.dao.repository.kaligia
+com.betterit.kaligia.features
+com.betterit.kaligia.service
